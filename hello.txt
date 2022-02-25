@@ -1,6 +1,7 @@
 hello world	change 
 hello world	change
 hello world	merge test
+hello world	hot-fix
 hello world	111
 hello world	111
 hello world	111
